@@ -1,2 +1,2 @@
 # MapColorChange
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/repository/main/script.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ngunhuchochet6/repository/main/script.lua", true))()
